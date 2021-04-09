@@ -27,7 +27,7 @@ Run GenSMBIOS. Select “Generate SMBIOS” and type “MacBookPro14,1”. Enter
 Open `MakeInstall` from gibMacOS (as an administrator) and find the number of your USB drive. Assuming that `1` is the number of your USB drive, type “1U”.
 
 ### Step 8
-Mount the EFI partition of your USB drive (in Windows, assign this partition a letter using the partition manager or a program such as [AOMEI Partition Assistant](https://www.aomeitech.com/aomei-partition-assistant.html) (the standard version is enough)).
+Mount the EFI partition of your USB drive (on Windows, assign this partition a letter using the partition manager or a program such as [AOMEI Partition Assistant](https://www.aomeitech.com/aomei-partition-assistant.html) (the standard version is enough)).
 
 ### Step 9
 Save the `config.plist` file in ProperTree and copy the `EFI` folder (the folder itself, not its content) to the root of the EFI partition you just mounted.
