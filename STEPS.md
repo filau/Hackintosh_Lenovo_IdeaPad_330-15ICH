@@ -24,7 +24,7 @@ Run GenSMBIOS. Select “Generate SMBIOS” and type “MacBookPro14,1”. Enter
 <em>Source: [dortania.github.io](https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/coffee-lake.html#platforminfo)</em>
 
 ### Step 7
-Open `MakeInstall` from gibMacOS (as an administrator) and find the number of your USB drive. Supposing that `1` is the number of your USB drive, type “1U”.
+Open `MakeInstall` from gibMacOS (as an administrator) and find the number of your USB drive. Assuming that `1` is the number of your USB drive, type “1U”.
 
 ### Step 8
 Mount the EFI partition of your USB drive (in Windows, assign this partition a letter using the partition manager or a program such as [AOMEI Partition Assistant](https://www.aomeitech.com/aomei-partition-assistant.html) (the standard version is enough)).
