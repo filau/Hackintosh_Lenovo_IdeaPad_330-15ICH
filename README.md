@@ -13,13 +13,13 @@ See [STEPS.md](https://github.com/Firmin-Launay/Hackintosh_Lenovo_IdeaPad_330-15
 ## What does / does not work?
 ### Working
 * Ethernet
-* WiFi
 * Keyboard
 * USB ports
 * SD slot
 * Audio
 * Webcam / microphone
 ### Not working
+* WiFi
 * Bluetooth
 * Trackpad
 ### Not tested
