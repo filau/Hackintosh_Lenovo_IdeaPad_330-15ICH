@@ -22,8 +22,8 @@ See [STEPS.md](https://github.com/Firmin-Launay/Hackintosh_Lenovo_IdeaPad_330-15
 * WiFi
 * Bluetooth
 * Trackpad
-### Not tested
 * HDMI port
+### Not tested
 * USB-C
 
 &nbsp;<br/>
