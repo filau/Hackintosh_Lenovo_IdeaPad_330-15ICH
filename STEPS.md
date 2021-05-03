@@ -13,7 +13,7 @@ Flash this image to your USB drive (16 GB +) using [Etcher](https://www.balena.i
 Download and unzip [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS/archive/refs/heads/master.zip), [gibMacOS](https://github.com/corpnewt/gibMacOS/archive/refs/heads/master.zip) and [ProperTree](https://github.com/corpnewt/ProperTree/archive/refs/heads/master.zip). You will additionnaly need to install [Python (3.8 +)](https://www.python.org/downloads/) on your computer (add Python to PATH when it is prompted during installation).
 
 ### Step 4
-Download and unzip [this repository](https://github.com/Firmin-Launay/Hackintosh_Lenovo_IdeaPad_330-15ICH/archive/refs/heads/main.zip).
+Download and unzip [this repository](https://github.com/filau/Hackintosh_Lenovo_IdeaPad_330-15ICH/archive/refs/heads/main.zip).
 
 ### Step 5
 Run ProperTree and open `EFI/OC/config.plist` from this repository with it.
