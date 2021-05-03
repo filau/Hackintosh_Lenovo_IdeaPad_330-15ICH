@@ -27,4 +27,4 @@ See [STEPS.md](https://github.com/Firmin-Launay/Hackintosh_Lenovo_IdeaPad_330-15
 * USB-C
 
 &nbsp;<br/>
-Feel free to send me comments on [Twitter](https://twitter.com/messages/compose?recipient_id=1070234915525009408), or on [Discussions](https://github.com/Firmin-Launay/Hackintosh_Lenovo_IdeaPad_330-15ICH/discussions/new), or even to [submit an issue](https://github.com/Firmin-Launay/Hackintosh_Lenovo_IdeaPad_330-15ICH/issues/new) if you encounter any problem.
+Feel free to send me comments on [Twitter](https://twitter.com/messages/compose?recipient_id=1070234915525009408), or on [Discussions](https://github.com/filau/Hackintosh_Lenovo_IdeaPad_330-15ICH/discussions/new), or even to [submit an issue](https://github.com/filau/Hackintosh_Lenovo_IdeaPad_330-15ICH/issues/new) if you encounter any problem.
