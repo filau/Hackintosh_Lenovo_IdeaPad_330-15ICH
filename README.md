@@ -9,7 +9,7 @@ This repository has for objective to make it easy hackintoshing a Lenovo IdeaPad
 * SSD: NVMe 128 GB
 * HDD: SATA 2.5” 1 TB
 ## How to?
-See [STEPS.md](https://github.com/Firmin-Launay/Hackintosh_Lenovo_IdeaPad_330-15ICH/blob/main/STEPS.md).
+See [STEPS.md](https://github.com/filau/Hackintosh_Lenovo_IdeaPad_330-15ICH/blob/main/STEPS.md).
 ## What does / does not work?
 ### Working
 * Ethernet
